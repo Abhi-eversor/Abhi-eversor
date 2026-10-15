@@ -25,6 +25,6 @@ I'm a third-year B.Tech student in Computer Science & Engineering (AI & ML) at *
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/bomberman-contribution-graph-dark.svg">
-  <img src="assets/bomberman-contribution-graph.svg" alt="Bomberman animation of my GitHub contribution calendar" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi-eversor/Abhi-eversor/output/bomberman-contribution-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/Abhi-eversor/Abhi-eversor/output/bomberman-contribution-graph.svg" alt="Bomberman animation of my GitHub contribution calendar" width="100%">
 </picture>
