@@ -22,7 +22,7 @@ I'm a third-year B.Tech student in Computer Science & Engineering (AI & ML) at *
   <a href="https://github.com/Abhi-eversor"><img src="assets/github.svg" alt="GitHub" width="150" height="42"></a>
 </p>
 
-## Bomberman
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/bomberman-contribution-graph-dark.svg">
