@@ -1,6 +1,6 @@
 # Publishing and Galaga updates
 
-The live profile is [Abhi-eversor/Abhi-eversor](https://github.com/Abhi-eversor/Abhi-eversor). Its root README uses native Markdown, two static contact buttons and the original upstream Galaga animation.
+The live profile is [Abhi-eversor/Abhi-eversor](https://github.com/Abhi-eversor/Abhi-eversor). Its root README uses native Markdown, LinkedIn and Kaggle contact buttons, and the original upstream Galaga animation.
 
 ## Where the files live
 
@@ -16,7 +16,7 @@ The README references the SVGs on output using raw.githubusercontent.com URLs. N
 
 The workflow runs:
 - When galaga.yml is first uploaded or changed on main.
-- Daily at **03:17 Asia/Kolkata**.
+- Every six hours at **03:17, 09:17, 15:17 and 21:17 Asia/Kolkata**.
 - When requested through **Actions > Refresh Galaga > Run workflow**.
 
 Both original GitHub theme SVGs must validate before publication. [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages), pinned to `df5cc2bfa78282ded844b354faee141f06b41865`, publishes only dist/ to output and preserves output history. A generation failure leaves the previous output intact. Output commits do not retrigger the main-branch workflow.

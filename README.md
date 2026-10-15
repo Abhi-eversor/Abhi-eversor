@@ -19,7 +19,7 @@ I'm a third-year B.Tech student in Computer Science & Engineering (AI & ML) at *
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhi-eversor"><img src="assets/linkedin.svg" alt="LinkedIn" width="150" height="42"></a>
-  <a href="https://github.com/Abhi-eversor"><img src="assets/github.svg" alt="GitHub" width="150" height="42"></a>
+  <a href="https://www.kaggle.com/abhieversor"><img src="assets/kaggle.svg" alt="Kaggle" width="150" height="42"></a>
 </p>
 
 
