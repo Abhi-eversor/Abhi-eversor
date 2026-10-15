@@ -23,7 +23,7 @@ Both original GitHub theme SVGs must validate before publication. [crazy-max/gha
 
 The first actual hosted run [completed successfully on 15 October 2026](https://github.com/Abhi-eversor/Abhi-eversor/actions/runs/38699281081). The earlier graph was stale because no workflow had run; it was a bundled 12 October snapshot with 35 contributions.
 
-GitHub displays animated SVG images, not executable README JavaScript. Bomberman moves and destroys cells during playback, so a later frame is not a static copy of the full contribution grid. Gameplay scores and destroyed-cell counts are not contribution totals.
+GitHub displays animated SVG images, not executable README JavaScript. Upstream Bomberman clears its player spawn areas before the first frame, then destroys cells during playback. Its first frame and later frames therefore need not match GitHub's static grid square for square. Gameplay scores and destroyed-cell counts are not contribution totals.
 
 The upstream action makes best-effort analytics and game-stat requests. Its implementation is not redistributed in this package, and no upstream license is assumed.
 
